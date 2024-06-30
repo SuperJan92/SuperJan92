@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SuperJan92
-- 👀 I’m interested in WordPress Development
-- 🌱 I’m currently learning Theme Development
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning WordPress Development 
 
 <!---
 SuperJan92/SuperJan92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
